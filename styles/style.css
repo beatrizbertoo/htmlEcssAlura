@@ -130,4 +130,8 @@ body{
         width: auto;
 
     }
+    .apresentacao__imagem {
+        max-width: 100%;
+        height: auto;
+    }
 }
